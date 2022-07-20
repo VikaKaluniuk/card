@@ -1,0 +1,44 @@
+.body{
+    margin: auto;
+    width: 320px ;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+.div{
+    width: 320px ;
+}
+.img{
+    width: 320px ;
+}
+.div2{
+    padding: 15px 10px 25px 15px ;
+
+}
+.h21{
+    margin: 0px ;
+    font-size: 26px ;
+    font-family: "Poppins";
+    font-weight: 200;
+}
+.span{
+    font-family: 'Albert Sans', sans-serif;
+    font-size: 17px ;
+    color: red;
+    margin: 0px ;
+}
+.p1{
+    font-size: 17px;
+    font-family: 'Nanum Gothic', sans-serif;
+    margin-top: 0px ;
+    color: rgb(0, 0, 0);
+    padding-bottom: 13px;
+    line-height: 25px;
+}
+.a{
+    display: block;
+    font-family: 'Work Sans', sans-serif;
+    text-decoration: none;
+    background-color: rgb(206, 168, 0);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 15px 0px 15px 0px ;
+}
